@@ -1,0 +1,39 @@
+./(file name)  this is what we have to write in the terminal for running a code if it is not running properly 
+
+(getline) is an in-built function defined in the <string. h> header file that allows accepting and reading single and multiple line strings from the input stream
+
+cin >> response >> endl;    is just similar as getline(cin,response)
+
+
+names of functions can be same! then how we will diffrentaite them ? on the basis of there declared parameters
+
+
+pass by value hota h apne end pr changes krna matlab koi online file download ki or usmai changes kr rha hu lekin jo original file hogi owner k pass uska data toh asit is hi rhega na 
+and on the other hand 
+pass by refrence iska ulta hota h sidha kisi file ka acccess mila or usmai changes kr rhe maltab ek tara se main file mai hi just like git github mai krte h and isko use krne k liye basically sirf ek (&) wale sign ka use hota h 
+
+lemda function are mainly used in frameworks 
+and let us discuss how to declare it:-
+[](int n){
+    this is how it declare 
+}
+
+
+OOPS in C++:-
+
+how to declare?
+phele toh ye ki classes ki aandar hi objects aate h 
+OOPS kisi bhi lang k ho java C++ javascript almost sb same h 
+
+class{
+    public:
+        //code
+
+    private:         //declare private state variable
+        //code
+    
+    protected:      //declare protected function for derived classes only 
+        //code
+};
+
+these above thing about OOPS are known as to be access modifier and you can also go through the documentation of microsoft 
