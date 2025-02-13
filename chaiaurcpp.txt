@@ -67,3 +67,7 @@ int main(){
     delete[] orderChai;
     return 0;
 }
+
+
+
+swaping number is easy by an easy inbuilt swap function;
