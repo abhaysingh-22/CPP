@@ -3,7 +3,7 @@ using namespace std;
 
 
                                                   // Approach 1: Using array
-                                                  
+
 // int main(){
 
 //     int n;
