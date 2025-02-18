@@ -71,3 +71,11 @@ int main(){
 
 
 swaping number is easy by an easy inbuilt swap function;
+
+
+
+Pointers:-
+Pointers reduce the code and improve performance. They are used to retrieve strings, trees, arrays, structures, and functions.
+Pointers allow us to return multiple values from functions.
+In addition to this, pointers allow us to access a memory location in the computer’s memory.
+If you are not able use pointers it is of no use just know about it what are pointers how they perform there tasks and all such theory points
