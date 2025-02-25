@@ -69,9 +69,7 @@ int main(){
 }
 
 
-
 swaping number is easy by an easy inbuilt swap function;
-
 
 
 Pointers:-
@@ -84,13 +82,13 @@ just revice the types of pointers and there usage from chatGPT
 
 
 
-*Pseudo Code:- 
+**Pseudo Code:- 
 Pseudo code is a simplified, human-readable representation of an algorithm, written in a structured way without specific syntax. It helps in planning logic before actual coding.
 (1) Focuses on logic, not syntax.
 (2) Helps in designing algorithms before writing real code
 
 
-
-*Brute Force Code:-
+**Brute Force Code:-
 (1) A brute force approach systematically explores all possible solutions to a problem without optimization. It is simple but inefficient for large inputs.
 (2) Brute force is easy to implement but inefficient for large problems.
+
