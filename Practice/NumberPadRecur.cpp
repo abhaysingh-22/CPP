@@ -28,3 +28,6 @@ int main(){
     }
     return 0;
 }
+
+
+//smj nhi aaaya
