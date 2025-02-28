@@ -3,9 +3,11 @@ using namespace std;
 
 vector<int> findIndex(vector<int> &arr, int key)
 {
+
     int n = arr.size();
     int firstIndex = -1;
     int lastIndex = -1;
+
 
     for (int i = 0; i < n; i++)
     {
@@ -19,11 +21,14 @@ vector<int> findIndex(vector<int> &arr, int key)
         }
     }
 
+
     return {firstIndex, lastIndex};
+
 }
 
 int main()
 {
+
     int n;
     cin >> n;
 
@@ -41,4 +46,5 @@ int main()
     cout << result[0] << " " << result[1] << endl;
 
     return 0;
+    
 }
