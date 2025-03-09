@@ -92,3 +92,11 @@ Pseudo code is a simplified, human-readable representation of an algorithm, writ
 (1) A brute force approach systematically explores all possible solutions to a problem without optimization. It is simple but inefficient for large inputs.
 (2) Brute force is easy to implement but inefficient for large problems.
 
+
+
+**To capatilise the first letter:
+if(!s.empty()){
+    s[0] = toupper(s[0])
+}
+Means using this you can capatilise the first letter of your word
+(idea from solving gfg upper case conversion question)
