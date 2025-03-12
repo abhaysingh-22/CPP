@@ -13,11 +13,14 @@ int main(){
     for(int i = 0; i < n; i++){
         cin >> arr[i];
     }
+
+    int sum = 0;
     for(int i = 0; i < n; i++){
-        int sum = 0;
-        for(int j = 0; j <= i; j++){
-            sum += arr[j];
-        }
+        
+        
+        int ele = arr[i];
+        sum += ele;
+
         cout << sum/(i+1) << " ";
     }
     return 0;
