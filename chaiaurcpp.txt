@@ -100,3 +100,29 @@ if(!s.empty()){
 }
 Means using this you can capatilise the first letter of your word
 (idea from solving gfg upper case conversion question)
+
+
+
+**Unordered_map is required when:-
+(1) to store key value pairs
+(2) avg O(1) time complexity for insert, dlt, access values
+(3) Fast Lookup – O(1) average time complexity for searching elements.
+✅ No Sorting Required – Elements are not stored in any specific order.
+✅ Key-Value Pair Storage – Useful when you need to store unique keys with associated values.
+✅ Efficient for Large Data – Performs better than map when order is not needed.
+
+When you use Unordered_map so you have to iterate in different way:-
+
+//code
+    marks["Alice"] = 90;
+    marks["Bob"] = 85;
+    marks["Charlie"] = 78;
+
+ for (auto it : marks) {
+        cout << it.first << " -> " << it.second << endl;
+    }
+
+//output
+    Charlie -> 78
+    Alice -> 90
+    Bob -> 85
