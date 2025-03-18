@@ -126,3 +126,15 @@ When you use Unordered_map so you have to iterate in different way:-
     Charlie -> 78
     Alice -> 90
     Bob -> 85
+
+
+
+**How to get nearest round off number:-
+(using in built round() function)
+double d = code;
+int r = (int)round(d);
+and then simply return r;
+
+
+**Conversion of "char" into "int":-
+|| int digit = s[i] - '0';   this will help to convert char into int;
