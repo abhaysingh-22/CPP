@@ -138,3 +138,8 @@ and then simply return r;
 
 **Conversion of "char" into "int":-
 || int digit = s[i] - '0';   this will help to convert char into int;
+
+
+
+**What is the use of floor in cpp?
+It is used to round down a floating-point number to the nearest integer value. It is part of the cmath library in C++.
