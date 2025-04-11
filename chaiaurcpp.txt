@@ -147,7 +147,7 @@ It is used to round down a floating-point number to the nearest integer value. I
 
 selection sorting :- Find the minimum element from the unsorted part and put it at the beginning.
 bubble sorting :- Compare adjacent elements and swap them if they are in the wrong order. Repeat until the array is sorted.
-insertion sorting :- Build a sorted array one element at a time by inserting elements into their correct position.
+insertion sorting :- Take one element at a time and insert it into its correct position in the sorted part of the array.
 merge sorting :- Divide the array into halves, sort each half, and merge them back together.
 quick sorting :- Choose a pivot element, partition the array around it, and recursively sort the partitions.
 heap sorting :- Build a max heap, repeatedly extract the maximum element, and rebuild the heap until sorted.
