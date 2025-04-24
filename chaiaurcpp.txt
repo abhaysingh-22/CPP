@@ -151,3 +151,20 @@ insertion sorting :- Take one element at a time and insert it into its correct p
 merge sorting :- Divide the array into halves, sort each half, and merge them back together.
 quick sorting :- Choose a pivot element, partition the array around it, and recursively sort the partitions.
 heap sorting :- Build a max heap, repeatedly extract the maximum element, and rebuild the heap until sorted.
+
+
+**BINARY SEARCH:-
+Binary Search is a very efficient algorithm used to find the position of a target element in a sorted array. Instead of checking each element one by one (like in linear search), binary search repeatedly divides the search range in half, reducing the time complexity to O(log n).
+
+**Binary Search is used not only on arrays but on:-
+Search spaces (values, conditions)
+Functions
+Answers to optimization problems
+
+Finding First or Last Occurrence of an Element
+Finding Square Root (Without sqrt Function)
+Search in Rotated Sorted Array
+Peak Element in Mountain Array
+Minimum in a Rotated Sorted Array
+Allocate Minimum Number of Pages / Painters Partition
+Finding Kth Smallest Pair Distance / Median of Arrays
