@@ -153,6 +153,7 @@ quick sorting :- Choose a pivot element, partition the array around it, and recu
 heap sorting :- Build a max heap, repeatedly extract the maximum element, and rebuild the heap until sorted.
 
 
+
 **BINARY SEARCH:-
 Binary Search is a very efficient algorithm used to find the position of a target element in a sorted array. Instead of checking each element one by one (like in linear search), binary search repeatedly divides the search range in half, reducing the time complexity to O(log n).
 
