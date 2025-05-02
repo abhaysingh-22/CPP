@@ -169,3 +169,11 @@ Peak Element in Mountain Array
 Minimum in a Rotated Sorted Array
 Allocate Minimum Number of Pages / Painters Partition
 Finding Kth Smallest Pair Distance / Median of Arrays
+
+
+
+
+setprecision(13) is used to set the precision of floating-point numbers in C++. It controls how many digits are displayed after the decimal point when printing a number. This is useful for ensuring consistent formatting in output, especially when dealing with calculations that require a specific level of precision.
+and before it we have to include the header file <iomanip>
+and also we have to write fixed so that it will not change the decimal point value of the number otherwise it will only show the number according to siginificant digits.
+like:- cout << fixed << setprecision(13) << number << endl;
