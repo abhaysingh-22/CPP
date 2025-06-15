@@ -1,0 +1,1 @@
+{"name":"Local: ProblemINFO","url":"d:\\CPP\\c++\\learn.cpp\\ProblemINFO.cpp","tests":[{"id":1750015991014,"input":"3\n10 20 30","output":"10,20,30"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\CPP\\c++\\learn.cpp\\ProblemINFO.cpp","group":"local","local":true}
